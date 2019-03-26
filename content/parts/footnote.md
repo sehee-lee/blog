@@ -2,9 +2,7 @@
 title: footnote
 ---
 
-* it's a demo site of the [gatsby-starter-hero-blog](https://github.com/greglobinski/gatsby-starter-hero-blog)
-* built by [greg lobinski](https://www.greglobinski.com)
-* Check [Front-end web development with Greg](https://dev.greglobinski.com)
+* it's a web site of Sehee Lee
 * delivered by [Netlify](https://www.netlify.com/)
-* photos by [unsplash.com](https://unsplash.com)
-* graphic by [pixabay.com](https://pixabay.com)
+* Source Repository [GitHub](https://github.com/sehee-lee)
+* Social Network [Instagram](https://www.instagram.com/seheelee__)
