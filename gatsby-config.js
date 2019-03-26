@@ -1,4 +1,6 @@
-require("dotenv").config();
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+});
 const config = require("./content/meta/config");
 const transformer = require("./src/utils/algolia");
 
@@ -59,9 +61,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-algolia`,
       options: {
-        appId: process.env.UENUPYA4CY ? process.env.UENUPYA4CY : "",
-        apiKey: process.env.ad8374829028e8c5c66678e624797f41 ? process.env.ad8374829028e8c5c66678e624797f41 : "",
-        indexName: process.env.sehee_web ? process.env.sehee_web : "",
+        appId: process.env.ALGOLIA_APP_ID ? process.env.ALGOLIA_APP_ID : "",
+        apiKey: process.env.ALGOLIA_ADMIN_API_KEY ? process.env.ALGOLIA_ADMIN_API_KEY : "",
+        indexName: process.env.ALGOLIA_INDEX_NAME ? process.env.ALGOLIA_INDEX_NAME : "",
         queries,
         chunkSize: 10000 // default: 1000
       }
