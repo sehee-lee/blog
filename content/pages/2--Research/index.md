@@ -1,6 +1,6 @@
 ---
 title: SW DEV Sehee
-menuTitle: Sehee Lee
+menuTitle: Research
 ---
 
 Hi
