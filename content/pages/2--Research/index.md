@@ -32,5 +32,5 @@ menuTitle: Research
     I research that personal data analysis algorithm for personal credit judgment and recommending appropriate financial products.
     
 * Paper
-    * [A MapReduce-based Clustering Algorithm for Social Media Data with Tags(태그가 있는 소셜 미디어 데이터를 위한 맵리듀스 기반의 군집화 알고리즘) | 12.2015](./test.pdf)
-    * [An Effective Clustering Algorithm for Keyword Set-based Data(키워드 집합 데이터를 위한 효과적인 군집화 알고리즘) | 12.2016](./An%20Effective%20Clustering%20Algorithm%20for%20Keyword%20Set-based%20Data.pdf)
+    * [A MapReduce-based Clustering Algorithm for Social Media Data with Tags(태그가 있는 소셜 미디어 데이터를 위한 맵리듀스 기반의 군집화 알고리즘) | 12.2015](A_MapReduce-based_Clustering_Algorithm_for_Social_Media_Data_with_Tags.pdf)
+    * [An Effective Clustering Algorithm for Keyword Set-based Data(키워드 집합 데이터를 위한 효과적인 군집화 알고리즘) | 12.2016](./An_Effective_Clustering_Algorithm_for_Keyword_Set-based_Data.pdf)
