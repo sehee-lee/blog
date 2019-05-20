@@ -17,7 +17,7 @@ const Article = props => {
         @from-width tablet {
           .article {
             padding: ${`calc(${theme.space.default}) calc(${theme.space.default} * 2)`};
-            max-width: ${theme.entop10_main.maxWidth.tablet};
+            max-width: ${theme.text.maxWidth.tablet};
           }
         }
         @from-width desktop {
@@ -25,7 +25,7 @@ const Article = props => {
             padding: ${`calc(${theme.space.default} * 2 + 90px) 0 calc(${
               theme.space.default
             } * 2)`};
-            max-width: ${theme.entop10_main.maxWidth.desktop};
+            max-width: ${theme.text.maxWidth.desktop};
           }
         }
       `}</style>

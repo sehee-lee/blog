@@ -46,7 +46,7 @@ const Item = props => {
         @from-width desktop {
           .item {
             :global(a) {
-              color: ${theme.entop10_main.color.primary};
+              color: ${theme.text.color.primary};
               padding: ${theme.space.inset.s};
               transition: all ${theme.time.duration.default};
               border-radius: ${theme.size.radius.small};
@@ -84,7 +84,7 @@ const Item = props => {
             padding: ${theme.space.xs};
 
             & :global(a.inHiddenItem) {
-              color: ${theme.entop10_main.color.primary};
+              color: ${theme.text.color.primary};
               &:hover {
                 color: ${theme.color.brand.primary};
               }

@@ -24,7 +24,7 @@ const Hero = props => {
           background: ${theme.hero.background};
           background-image: url(${backgrounds.mobile});
           background-size: cover;
-          color: ${theme.entop10_main.color.primary.inverse};
+          color: ${theme.text.color.primary.inverse};
           display: flex;
           flex-flow: column nowrap;
           justify-content: center;
@@ -48,7 +48,7 @@ const Hero = props => {
             &::after,
             &::before {
               content: "›";
-              color: ${theme.entop10_main.color.attention};
+              color: ${theme.text.color.attention};
               margin: 0 ${theme.space.xs} 0 0;
               text-shadow: 0 0 ${theme.space.s} ${theme.color.neutral.gray.k};
             }
