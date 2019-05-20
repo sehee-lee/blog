@@ -39,12 +39,12 @@ const Blog = props => {
             padding: 0 ${`0 calc(${theme.space.default} * 1.5)`};
           }
           ul {
-            max-width: ${theme.text.maxWidth.tablet};
+            max-width: ${theme.entop10_main.maxWidth.tablet};
           }
         }
         @above desktop {
           ul {
-            max-width: ${theme.text.maxWidth.desktop};
+            max-width: ${theme.entop10_main.maxWidth.desktop};
           }
         }
       `}</style>

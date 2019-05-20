@@ -55,7 +55,7 @@ const Item = props => {
       <style jsx>{`
         :global(.link) {
           width: 100%;
-          color: ${theme.text.color.primary};
+          color: ${theme.entop10_main.color.primary};
         }
 
         li {

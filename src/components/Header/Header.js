@@ -78,7 +78,7 @@ class Header extends React.Component {
               align-items: center;
               display: flex;
               flex-direction: "column";
-              color: ${theme.text.color.primary};
+              color: ${theme.entop10_main.color.primary};
 
               .logo {
                 flex-shrink: 0;
