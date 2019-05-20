@@ -1,6 +1,6 @@
 ---
 title: Entop 10 Project
-category: "Samsung SDS sGen Project" "project" "machine learning"
+category: "Samsung SDS sGen Project"
 cover: images/01.jpg
 author: Sehee Lee
 ---
