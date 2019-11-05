@@ -1,0 +1,1 @@
+export { default } from "./entop10_main.md";
