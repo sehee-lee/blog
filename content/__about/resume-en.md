@@ -5,7 +5,23 @@ lang: 'en'
 ---
 
 # Sehee Lee (Chad Lee)
+## Career
+Term | corporation | role
+--- | --- | ---
+6. 2011 ~ 5. 2012 | Google Korea | Search Engine QA Tester
+7. 2012 ~ 8. 2014 | Samsung SDS sGen | Server Programmer
+1. 2014 ~ 2. 2015 | Sogang Univ. Data Science Lab | Undergraduate Researcher
+3. 2015 ~ 12. 2016 | Sogang Univ. Data Science Lab | Master Researcher
+1. 2017 ~ 9. 2019 | Tmax Data | Database and CDC Researcher
+9. 2019 ~  | Kakao corp. | Search Service Developer
 
+## Education
+School | Location | Major | Degree
+--- | --- | --- | ---
+Sogang University | Seoul | Computer Science | Bachelor
+Sogang University | Seoul | Computer Science (Data Mining) | Master Degree
+
+## etc
 * DataMining
     * 데이터 마이닝에는 규칙과 패턴을 바탕으로 분류(classification)와 예측(prediction), 연관성(association), 연속성(sequencing), 
     리고 군집(clustering) 분석 등을 비롯한 다양한 기법들이 사용됩니다. 
