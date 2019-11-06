@@ -23,6 +23,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -65,7 +66,9 @@
       <workItem from="1572923720938" duration="1171000" />
       <workItem from="1572930154674" duration="1476000" />
       <workItem from="1572936330268" duration="23000" />
-      <workItem from="1572999528537" duration="8299000" />
+      <workItem from="1572999528537" duration="8372000" />
+      <workItem from="1573081615458" duration="1865000" />
+      <workItem from="1573083587247" duration="264000" />
     </task>
     <servers />
   </component>

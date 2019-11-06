@@ -1,7 +1,7 @@
 ---
 title: 'What is GraphQL'
 date: 2019-11-06 09:39:43
-category: 'development'
+category: 'Development'
 ---
 
 GraphQL은 <strong>How to ask flexibly for data to server?</strong> 라는 의문에서 시작되었다.
