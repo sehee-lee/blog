@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d04987cb-13b9-4ec5-b4b8-43b45d9bb917" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/blog/development/what-is-graphql.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/development/what-is-graphql.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +65,7 @@
       <workItem from="1572923720938" duration="1171000" />
       <workItem from="1572930154674" duration="1476000" />
       <workItem from="1572936330268" duration="23000" />
-      <workItem from="1572999528537" duration="7664000" />
+      <workItem from="1572999528537" duration="8299000" />
     </task>
     <servers />
   </component>

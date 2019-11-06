@@ -77,6 +77,29 @@ C/C++에서 struct를 사용해본 경험을 봤을 때, 생각보다 어렵지 
 - [, ]: array
 
 그 외에는 [GraphQL schema type](https://graphql.org/learn/schema/)을 참고하면 좀 더 자세하게 나와있다.
-### 2. Quries
 
+### 2. Quries
+client는 server로 부터 데이터를 받기 위해서 "나 이런이런게 필요해!!"라고 전달해야 한다. 이 역시 서로 약속된 spec에 맞게 전달 해야하는데, 이를 query라고 한다. 
+간단하게는 다음과 같다.
+
+~~~
+query { document }
+~~~
+document라는 struct의 모든 정보를 다 달라는 query를 이렇게 사용한다.
+이렇게 질의를 날리게 되면, server는
+
+~~~
+{ 
+    "data": {
+        "document": {
+            "title": "What is GraphQL?"
+            "body": "GraphQL is ...."
+            "DATE": "2019-11-06"
+            "DOCID": 1
+        }
+    }
+}
+~~~
+
+이렇게 결과를 던져주게 된다.
 ### 3. Resolvers
