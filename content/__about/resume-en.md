@@ -10,8 +10,8 @@ Term | corporation | role
 --- | --- | ---
 6. 2011 ~ 5. 2012 | Google Korea | Search Engine QA Tester
 7. 2012 ~ 8. 2014 | Samsung SDS sGen | Server Programmer
-1. 2014 ~ 2. 2015 | Sogang Univ. Data Science Lab | Undergraduate Researcher
-3. 2015 ~ 12. 2016 | Sogang Univ. Data Science Lab | Master Researcher
+1. 2014 ~ 2. 2015 | Sogang Univ. Data Science Lab | Researcher
+3. 2015 ~ 12. 2016 | Sogang Univ. Data Science Lab | Researcher
 1. 2017 ~ 9. 2019 | Tmax Data | Database and CDC Researcher
 9. 2019 ~  | Kakao corp. | Search Service Developer
 
