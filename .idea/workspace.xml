@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d04987cb-13b9-4ec5-b4b8-43b45d9bb917" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/assets/profile-sehee.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/development/graphql-img/graphql-api-ex.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/development/graphql-img/graphql-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/development/graphql-img/rest-api-ex.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/development/what-is-graphql.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.ko.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/__about/resume-en.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/__about/resume-en.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/bio/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/bio/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/meta.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/meta.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layout/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/development/what-is-graphql.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/development/what-is-graphql.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +64,7 @@
       <workItem from="1572923720938" duration="1171000" />
       <workItem from="1572930154674" duration="1476000" />
       <workItem from="1572936330268" duration="23000" />
-      <workItem from="1572999528537" duration="7282000" />
+      <workItem from="1572999528537" duration="7664000" />
     </task>
     <servers />
   </component>

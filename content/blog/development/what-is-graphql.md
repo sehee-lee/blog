@@ -5,7 +5,7 @@ category: 'development'
 ---
 
 GraphQL은 <strong>How to ask flexibly for data to server?</strong> 라는 의문에서 시작되었다.
-이러한 의문에서 시작 했기 때문에 query라는 것이 등장하였고, flexibly를 위해서 REST API와 같이 database와 플랫폼에 종속되지 않는 특징ㅇ르 지니고 있다.<br>
+이러한 의문에서 시작 했기 때문에 query라는 것이 등장하였고, flexibly를 위해서 REST API와 같이 database와 플랫폼에 종속되지 않는 특징을 지니고 있다.<br>
 이 포스트에서는 어떠한 경우에 GraphQL을 사용하며, 기존에 주로 사용되던 REST와 어떠한 차이점이 있는지 개념과 함께 정리한다.
 
 ## GraphQL?
@@ -75,6 +75,7 @@ C/C++에서 struct를 사용해본 경험을 봤을 때, 생각보다 어렵지 
 추가로 알아둬야 할 것은 다음 두 가지이다.
 - !: 필수 값(non-nullable)
 - [, ]: array
+
 그 외에는 [GraphQL schema type](https://graphql.org/learn/schema/)을 참고하면 좀 더 자세하게 나와있다.
 ### 2. Quries
 
