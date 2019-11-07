@@ -14,7 +14,7 @@ There are many reasons which occur this error. However, this error is occurred m
 Due to Mac OS update, Xcode Command Line Tools issue is occurred.😢
 
 ### How to solve?
-Fortunately, you can solve this problem!!!😏<br>
+Fortunately, you can solve this problem easly!!!😏<br>
 1. Open <strong>Terminal App</strong>
 2. Type below command
 ~~~
