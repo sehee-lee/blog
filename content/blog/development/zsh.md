@@ -9,7 +9,7 @@ In case of me, using my Mac in work. So all of my shell setting for developing d
 Of course, developers who have already used zsh have no problem. And you can easily change default shell from zsh to bash in Caralina.
 If you want to know how to change default shell in mac, visit [this]() page. However, if you change the default shell to bash, you should always faced below message.
 
-![](zsh-img/bash_message.png)
+![](images/zsh-img/bash_message.png)
 
 I decided to use zsh, because this message is very annoying 😕 and zsh is very useful for development.(Beautiful command theme is also a big reason for this decision.)
 Before descause about detail of zsh, you should know that zsh config file is <strong>.zshrc</strong>!!
@@ -51,9 +51,9 @@ If you cannot chose only one theme, write down "random". This changes the theme 
 Some themes are needed special characters for display information. Therefore if your terminal display "?" not emoji, should change font.
 Down [powerline fonts](https://github.com/powerline/fonts) and then setting font at your terminal app(like iTerm).<br>
 If change font,
-![Before change font.](zsh-img/before_change_font.png "Before change font.")
+![Before change font.](images/zsh-img/before_change_font.png "Before change font.")
 to
-![After change font](zsh-img/after_change_font.png "After change font.")
+![After change font](images/zsh-img/after_change_font.png "After change font.")
 
 ## Plugin
 The attractive points of zsh is that support plugin and there are very useful plugins.

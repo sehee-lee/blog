@@ -14,7 +14,7 @@ GraphQL은 2012년에 Facebook이 개발하여 2015년에 공개적으로 발표
 그럼에도 불구하고 전 세계적으로 GraphQL에 대한 관심이 매우 가파르게 올라가고있으며, 이를 도입하기 위한 노력도 계속되고 있다.
 실제로 google에 GraphQL을 검색하면 벌써 sample project가 올라와 있다.(심지어 한국어로 설명된 sample project도 은근히 있다.) 그러면 왜 이렇게 GraphQL에 대한 관심이 늘어나고 있는 것 인가?
 
-![](graphql-img/graphql-logo.png)
+![](images/graphql-img/graphql-logo.png)
 
 GraphQL은 다양한 언어로 구현되어있는 API들을 위한 data query이다. 현재 구현되어 있는 언어는 client는 apollo client, relay 등이 있고, 서버는 JavaScripts, Python, ruby, JAVA, C#, scala, go, PHP 등등... 현재 web service를 위해서 사용하는 대부분의 언어로 구현되어있다.
 앞서, query라는 점에서 SQL과 GraphQL이 상당히 유사하다고 언급하였다. 이는 단순히 query라는 관점에서 유사하다는 것 이고, 실제로 이를 사용하는 관점에서의 구조와 방식에서는 상당한 차이를 보인다.
@@ -45,11 +45,11 @@ server side에서는 client로 부터 받은 GraphQL로 작성된 query를 받�
 그래서 request하는 url을 게속해서 만들어 줘야하고, 변경이 일어나면 매우 불편하다는 단점을 가지고 있다. 반면, GraphQL API의 경우에는 endpoint에 따라서 달라지는 것이 아니라 schema에 따라서 달라진다.<br>
 예를들어, 피자집과 잡화점 그리고 세탁소에 대해 요청을 해야한다면, REST API는 각각 모두에 대한 전화번호를 알고선 해당 전화 번호로 전화를 걸어서 요구해야 한다. 모두 endpoint가 다르다.
 
-![](graphql-img/rest-api-ex.png)
+![](images/graphql-img/rest-api-ex.png)
 
 반면 GraphQL의 경우에는 client는 오로지 하나의 endpoint만을 가지며, 여기에 필요한 내용을 query로 요청하면 그에 맞는 정보를 돌려준다. endpoint를 각각 따로 관리하고 요청할 필요가 없다.
 
-![](graphql-img/graphql-api-ex.png)
+![](images/graphql-img/graphql-api-ex.png)
 
 그래서 REST API와 다르게 한번의 네트워크 호출로 여러 정보를 얻어 올 수 있다. 이를 가능하게 하기 위해서 GraphQL API는 <strong>schema, queries, resolvers</strong>으로 구성되어있다.
 
@@ -144,7 +144,7 @@ query PostingNameAndDate($docid: Docid) {
 
 operation name query는 다음과 같은 구조로 되어있다.
 
-![](graphql-img/operation-name-query.png)
+![](images/graphql-img/operation-name-query.png)
 
 이렇게 variable 기능을 활용한 구문은 재사용성이 매우 높아서 한번 만들어 두면 여러 곳에서 유연하게 사용이 가능하다.<br>
 
