@@ -94,7 +94,7 @@ query { document }
 document라는 struct의 모든 정보를 다 달라는 query를 이렇게 사용한다.
 이렇게 질의를 날리게 되면, server는
 
-~~~
+~~~json
 { 
     "data": {
         "document": {
