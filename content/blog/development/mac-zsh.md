@@ -1,5 +1,5 @@
 ---
-title: 'ZSH in Mac Catalina'
+title: '[Mac] ZSH in Mac Catalina'
 date: 2019-11-08 09:05:13
 category: 'Development'
 ---
@@ -7,7 +7,7 @@ category: 'Development'
 The default shell was changed to <strong>zsh</strong> in new Mac OS Catalina(10.15).
 In case of me, using my Mac in work. So all of my shell setting for developing don't work anymore in Catalina.
 Of course, developers who have already used zsh have no problem. And you can easily change default shell from zsh to bash in Caralina.
-If you want to know how to change default shell in mac, visit [this]() page. However, if you change the default shell to bash, you should always faced below message.
+If you want to know how to change default shell in mac, visit [this](../mac-change-shell) page. However, if you change the default shell to bash, you should always faced below message.
 
 ![](images/zsh-img/bash_message.png)
 

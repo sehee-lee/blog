@@ -1,5 +1,5 @@
 ---
-title: 'What is GraphQL'
+title: '[GraphQL] What is GraphQL'
 date: 2019-11-06 09:39:43
 category: 'Development'
 ---

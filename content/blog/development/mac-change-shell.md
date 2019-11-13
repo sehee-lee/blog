@@ -1,5 +1,5 @@
 ---
-title: 'Change default shell script in Mac'
+title: '[Mac] Change default shell script in Mac'
 date: 2019-11-08 13:13:13
 category: 'Development'
 ---
