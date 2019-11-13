@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d04987cb-13b9-4ec5-b4b8-43b45d9bb917" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/blog/development/graphql-sample-server.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/development/images/graphql-img/graphql-server-ex.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/development/change-shell.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/development/mac-change-shell.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/development/what-is-graphql.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/development/graphql-what-is-graphql.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/development/zsh.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/development/mac-zsh.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/development/graphql-sample-server.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/development/graphql-sample-server.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +78,7 @@
       <workItem from="1573186293274" duration="1402000" />
       <workItem from="1573433901201" duration="522000" />
       <workItem from="1573610416100" duration="52000" />
-      <workItem from="1573628419507" duration="2921000" />
+      <workItem from="1573628419507" duration="3030000" />
     </task>
     <servers />
   </component>
