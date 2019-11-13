@@ -200,3 +200,6 @@ Listening at http://localhost:4000/
 <br><br>
 간단하게 GraphQL API server를 생성하는 법을 알아봤습니다. 그리고 이 프로젝트에 대한 내용은 제 [git](https://github.com/sehee-lee/graphql_server_ex)에서 확인하실 수 있습니다.
 다음 포스팅에서는 jest를 이용하여 GraphQL server를 test하는 방법에 대해서 posting 하겠습니다.
+
+## Refernce
+> [Apollo Server를 이용한 초간단 GraphQL 서버 개발](https://www.daleseo.com/graphql-apollo-server)
