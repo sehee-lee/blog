@@ -2,7 +2,7 @@ module.exports = {
   title: `Sehee Lee`,
   description: `Sehee Lee's Blog`,
   author: `Sehee Lee(Chad Lee)`,
-  introduction: `Hi`,
+  introduction: `Search Service Developer in Kakao.`,
   siteUrl: `http://seheelee.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
