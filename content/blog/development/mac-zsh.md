@@ -72,6 +72,7 @@ $ZSH_CUSTOM/plugins/PLUGIN_NAME.
 Install plugin is very simple.
 1. Download plugin from git or other site.
 2. Move downloaded directory to plugin directory.
+
 ~~~bash
 git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 ~~~
