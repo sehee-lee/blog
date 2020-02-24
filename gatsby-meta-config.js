@@ -10,8 +10,9 @@ module.exports = {
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     instagram: `seheelee___`,
+    email: `chadsehee@gmail.com`
   },
-  icon: `content/assets/felog.png`, // Add your favicon
+  icon: ``, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
