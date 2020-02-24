@@ -51,7 +51,7 @@ export const Bio = () => (
                     </a>
                   )}
                   {social.email && (
-                    <a href={`${social.email}`}>
+                    <a href={`mailto:${social.email}`}>
                       email
                     </a>
                   )}

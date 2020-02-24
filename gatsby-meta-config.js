@@ -12,7 +12,7 @@ module.exports = {
     instagram: `seheelee___`,
     email: `chadsehee@gmail.com`
   },
-  icon: ``, // Add your favicon
+  icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
