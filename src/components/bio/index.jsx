@@ -84,6 +84,7 @@ const bioQuery = graphql`
           medium
           facebook
           instagram
+          email
         }
       }
     }
