@@ -13,7 +13,9 @@ Term | corporation | role
 1. 2014 ~ 2. 2015 | Sogang Univ. Data Science Lab | Researcher
 3. 2015 ~ 12. 2016 | Sogang Univ. Data Science Lab | Researcher
 1. 2017 ~ 9. 2019 | Tmax Data | Database and CDC Researcher
-9. 2019 ~  | Kakao corp. | Search Service Developer
+9. 2019 ~ 2. 2020 | Kakao corp. | Search Service Developer
+3. 2020 ~  | Kakaoenterprise corp. | Search Service Developer
+
 
 ## Education
 School | Location | Major | Degree

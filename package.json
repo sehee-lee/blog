@@ -8,6 +8,7 @@
     "url": "https://github.com/sehee-lee/blog/issues"
   },
   "dependencies": {
+    "core-js": "^3.6.5",
     "gatsby": "^2.2.8",
     "gatsby-image": "^2.0.34",
     "gatsby-plugin-feed": "^2.1.0",
